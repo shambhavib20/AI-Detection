@@ -9,7 +9,6 @@ This repository contains the lesson content, grading rubrics, and code used in t
 - **`RQ1_GPT.ipynb`**: Contains code for fine-tuning and prompting GPT4o model
 - **`RQ1_GPTZero.ipynb`**: Contains code for evaluating GPTZero model
 - **`RQ2_R`**: Contains R-code for mixed-effects logistic regression model
-- **Data files**: `UMS_2.csv`, `other_lessons_ai_detection.csv`, `regression_data.csv`: Contains the lesson data used for analysis to be accessed through DataShop.
 
 ## Accessing Lesson Log Data from DataShop  
 
@@ -17,8 +16,9 @@ This project uses the dataset stored in DataShop. The details for accessing the 
 
 - **Project Name**: PLUS (public)  
 - **Dataset Name**: AIED Paper 3528
-- **DataShop Link**: [Link](https://pslcdatashop.web.cmu.edu/Files?datasetId=6394)  
-- **Dataset ID**: 6394 
+- **DataShop Link**: [Link](https://pslcdatashop.web.cmu.edu/Files?datasetId=6394)
+- **Dataset ID**: 6394
+- - **Data files**: `UMS_2.csv`, `other_lessons_ai_detection.csv`, `regression_data.csv` used to run `RQ1_GPT.ipynb`, `RQ1_GPTZero.ipynb` and `RQ2_R`
 
 **Steps to Access the Dataset**  
 1. To access any dataset, you must have a registered account with DataShop.  
