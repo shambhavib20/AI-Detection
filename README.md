@@ -18,7 +18,7 @@ This project uses the dataset stored in DataShop. The details for accessing the 
 - **Dataset Name**: AIED Paper 3528
 - **DataShop Link**: [Link](https://pslcdatashop.web.cmu.edu/Files?datasetId=6394)
 - **Dataset ID**: 6394
-- - **Data files**: `UMS_2.csv`, `other_lessons_ai_detection.csv`, `regression_data.csv` used to run `RQ1_GPT.ipynb`, `RQ1_GPTZero.ipynb` and `RQ2_R`
+- - **Data files**: `UMS_2.csv`, `other_lessons_ai_detection.csv`, `regression_data.csv` used to run `RQ1_GPT.ipynb`, `RQ1_GPTZero.ipynb` and `RQ2_R` files, respectively. 
 
 **Steps to Access the Dataset**  
 1. To access any dataset, you must have a registered account with DataShop.  
