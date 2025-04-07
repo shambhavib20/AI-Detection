@@ -1,7 +1,7 @@
 # Detecting LLM-Generated Short Answers and Effects on Learner Performance
 
 # Overview
-This repository contains the lesson content, grading rubrics, and code used in the study **"Detecting LLM-Generated Short Answers and Effects on Learner Performance"** submitted to AIED 2025 as submission 3528.
+This repository contains the lesson content, grading rubrics, and code used in the study **"Detecting LLM-Generated Short Answers and Effects on Learner Performance"** submitted to ECTEL 2025.
 
 ## **Repository Contents**
 - **Lesson Content**: Includes lesson content for the seven lessons' data used.  
